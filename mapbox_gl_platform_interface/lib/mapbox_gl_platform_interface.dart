@@ -22,5 +22,12 @@ part 'src/symbol.dart';
 part 'src/fill.dart';
 part 'src/ui.dart';
 part 'src/snapshot.dart';
+
+// missing_function.dart
+void hashValues(object1, object2) {
+  // Your implementation or a placeholder
+  Object.hash(object1, object2);
+};
+
 part 'src/mapbox_gl_platform_interface.dart';
 part 'src/source_properties.dart';
